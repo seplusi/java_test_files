@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TruckDemo",
+            "request": "launch",
+            "mainClass": "TruckDemo",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "ShapesClass",
+            "request": "launch",
+            "mainClass": "ShapesClass",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "ShaoesClass",
+            "request": "launch",
+            "mainClass": "ShaoesClass",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "recursiveClassMain",
+            "request": "launch",
+            "mainClass": "recursiveClassMain",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "stackClassMain",
+            "request": "launch",
+            "mainClass": "stackClassMain",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "voidArgsMain",
+            "request": "launch",
+            "mainClass": "voidArgsMain",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "nestedClassDemo",
+            "request": "launch",
+            "mainClass": "nestedClassDemo",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "static_stuff_main",
+            "request": "launch",
+            "mainClass": "static_stuff_main",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "blockClassMain",
+            "request": "launch",
+            "mainClass": "blockClassMain",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "queue_demo_main",
+            "request": "launch",
+            "mainClass": "queue_demo_main",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "test_chapter5",
+            "request": "launch",
+            "mainClass": "test_chapter5",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "strings_stuff",
+            "request": "launch",
+            "mainClass": "strings_stuff",
+            "projectName": "java1_test_project_77b955ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "-G -A -now"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
